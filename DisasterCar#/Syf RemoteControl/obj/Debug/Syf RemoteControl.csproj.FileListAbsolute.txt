@@ -1,0 +1,37 @@
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\bin\Debug\Syf RemoteControl.exe.config
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\bin\Debug\Syf RemoteControl.exe
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\bin\Debug\Syf RemoteControl.pdb
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.Video.DirectShow.dll
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.Video.dll
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\bin\Debug\Microsoft.DirectX.DirectInput.dll
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.dll
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\bin\Debug\Microsoft.DirectX.dll
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.Video.xml
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.Video.DirectShow.xml
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\bin\Debug\Microsoft.DirectX.DirectInput.xml
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.xml
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\bin\Debug\Microsoft.DirectX.xml
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf RemoteControl.csprojResolveAssemblyReference.cache
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf_RemoteControl.Properties.Resources.resources
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf RemoteControl.csproj.GenerateResource.Cache
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf RemoteControl.exe
+D:\Documentos\Scripts\Syf\Final\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf RemoteControl.pdb
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\Syf RemoteControl.exe.config
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\Syf RemoteControl.exe
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\Syf RemoteControl.pdb
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.dll
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\Microsoft.DirectX.dll
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.Video.xml
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.Video.DirectShow.xml
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\Microsoft.DirectX.DirectInput.xml
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.xml
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\Microsoft.DirectX.xml
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf RemoteControl.csprojAssemblyReference.cache
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf_RemoteControl.Properties.Resources.resources
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf RemoteControl.csproj.GenerateResource.cache
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf RemoteControl.csproj.CoreCompileInputs.cache
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf RemoteControl.csproj.CopyComplete
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf RemoteControl.exe
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf RemoteControl.pdb
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\WindowsFormsApp1.MainWindow.resources

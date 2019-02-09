@@ -1,0 +1,36 @@
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\Syf RemoteControl.exe.config
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\Syf RemoteControl.exe
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\Syf RemoteControl.pdb
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.dll
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\Microsoft.DirectX.dll
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.Video.xml
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.Video.DirectShow.xml
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\Microsoft.DirectX.DirectInput.xml
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\AForge.xml
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\bin\Debug\Microsoft.DirectX.xml
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\DisasterCar.csprojAssemblyReference.cache
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\WindowsFormsApp1.MainWindow.resources
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf_RemoteControl.Properties.Resources.resources
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\DisasterCar.csproj.GenerateResource.cache
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\DisasterCar.csproj.CoreCompileInputs.cache
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\DisasterCar.csproj.CopyComplete
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf RemoteControl.exe
+E:\Documentos\Vehículo para Desastres\Syf RemoteControl\Syf RemoteControl\obj\Debug\Syf RemoteControl.pdb
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\bin\Debug\Syf RemoteControl.exe.config
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\bin\Debug\Syf RemoteControl.exe
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\bin\Debug\Syf RemoteControl.pdb
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\bin\Debug\AForge.dll
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\bin\Debug\Microsoft.DirectX.dll
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\bin\Debug\AForge.Video.xml
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\bin\Debug\AForge.Video.DirectShow.xml
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\bin\Debug\AForge.xml
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\bin\Debug\Microsoft.DirectX.xml
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\obj\Debug\DisasterCar.csprojAssemblyReference.cache
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\obj\Debug\WindowsFormsApp1.MainWindow.resources
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\obj\Debug\Syf_RemoteControl.Properties.Resources.resources
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\obj\Debug\DisasterCar.csproj.GenerateResource.cache
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\obj\Debug\DisasterCar.csproj.CoreCompileInputs.cache
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\obj\Debug\DisasterCar.csproj.CopyComplete
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\obj\Debug\Syf RemoteControl.exe
+C:\DisasterCar\DisasterCar#\Syf RemoteControl\obj\Debug\Syf RemoteControl.pdb
