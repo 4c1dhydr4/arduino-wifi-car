@@ -24,3 +24,5 @@ Para poder recibir video puedes montar tu celular en el carrito, la aplicación 
 Para utilizar otra aplicación que convierta el la cámara del teléfono en una cámara IP deberás modificar la URL de la cámara en el código.
 
 Si cuentas con todos los materiales y realizas estos pasos podrás tener un carrito que se controle con el Joystic por medio de la red Wifi del Router montado en el.
+
+Puedes añadir una serie de sensores para que se convierta en un vehículo que mapee un entorno, con sensores de gas, flama, sonido, movimiento, etc. Para ello deberás utilizar un Arduino Mega.
